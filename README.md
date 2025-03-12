@@ -1,6 +1,6 @@
 # ML Twitter User Analysis" 
 
-`data_processing.py : Effectue le nettoyage des données, gère les valeurs manquantes, normalise les données et ajoute des caractéristiques supplémentaires pour enrichir le dataset final.
+`data_processing.py `: Effectue le nettoyage des données, gère les valeurs manquantes, normalise les données et ajoute des caractéristiques supplémentaires pour enrichir le dataset final.
 
 test_final_dataset.py : Vérifie la structure et la qualité du dataset final après le prétraitement, en affichant des statistiques et des visualisations.
 
